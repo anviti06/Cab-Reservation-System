@@ -1,0 +1,30 @@
+									|| YAAR Cab Services Pvt. Ltd. ||
+
+		--------------------------------------------------------------------------------------------------------------------------------------------
+		--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+	
+
+	
+
+	Customer's Name : anviti 
+	Customer's Mobile Number : 938404
+	Customer's Pickup Location : noida
+	Customer's Drop Location : dwarka
+	Driver's Name : Mohan
+	Customer's Cab Type : L
+	Customer's Ride Total Fare : 15035
+
+	Customer's Name : dev 
+	Customer's Mobile Number : 998789
+	Customer's Pickup Location : noida
+	Customer's Drop Location : dwarka
+	Driver's Name : Baman
+	Customer's Cab Type : X
+	Customer's Ride Total Fare : 12610
